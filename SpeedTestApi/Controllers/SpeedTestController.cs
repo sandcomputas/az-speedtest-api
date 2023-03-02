@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using SpeedTestApi.Models;
 
 namespace SpeedTestApi.Controllers;
 
